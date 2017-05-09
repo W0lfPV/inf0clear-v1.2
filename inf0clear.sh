@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Pulsa [Enter] para comenzar, por favor, acuerdese de ejecutar este programa con poder de administrador, si no lo tiene asi, pulse Ctrl-C."
 read o
 clear
