@@ -4,7 +4,7 @@
 <h3> Contacto freeadri@autistici.org </h3>
 
 Realiza las siguientes funciones:</br>
-1.) Muestra información del equipo.</br>
+1.) Muestra información del equipo, componentes, memoria en uso, etc.</br>
 2.) Muestra información de su dispositivo de almacenamiento.</br>
 3.) Realiza un archivo con los principales datos.</br>
 4.) Desfragmentación de discos, particiones o directorios.</br>
