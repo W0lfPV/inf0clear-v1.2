@@ -3,15 +3,15 @@
 <h2> Realizado por Adrián Diaz </h2>
 <h3> Contacto freeadri@autistici.org </h3>
 
-Realiza las siguientes funciones:
-1.) Muestra información del equipo.
-2.) Muestra información de su dispositivo de almacenamiento.
-3.) Realiza un archivo con los principales datos.
-4.) Desfragmentación de discos, particiones o directorios.
-5.) Eliminación de paquetes dañados.
-6.) Reconfiguración de dpkg.
-7.) Limpieza de caché dpkg.
-8.) Actualización de grub.
-9.) Información de todos los dispositivos conectados al equipo, y datos de su particionado.
+Realiza las siguientes funciones:</br>
+1.) Muestra información del equipo.</br>
+2.) Muestra información de su dispositivo de almacenamiento.</br>
+3.) Realiza un archivo con los principales datos.</br>
+4.) Desfragmentación de discos, particiones o directorios.</br>
+5.) Eliminación de paquetes dañados.</br>
+6.) Reconfiguración de dpkg.</br>
+7.) Limpieza de caché dpkg.</br>
+8.) Actualización de grub.</br>
+9.) Información de todos los dispositivos conectados al equipo, y datos de su particionado.</br>
 
 Probado en: Elementary OS.
