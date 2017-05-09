@@ -14,5 +14,5 @@ Realiza las siguientes funciones:</br>
 8.) Actualización de grub.</br>
 9.) Información de todos los dispositivos conectados al equipo, y datos de su particionado.</br>
 
-Probado en: Elementary OS.
+Probado en: Elementary OS.</br>
 El archivo a ejecutar mantiene el nombre de inf0clear.sh, los demás archivos mantienen código del cual depende inf0clear.sh.
